@@ -1,0 +1,4 @@
+.food-image-link
+{display:block;width:100%;height:100%}
+.food-name a:hover{color:var(--green)}
+.food-name a:focus-visible,.food-image-link:focus-visible{outline:3px solid var(--orange);outline-offset:3px}
